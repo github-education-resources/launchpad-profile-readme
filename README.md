@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Launchpad: Profile README
+# Dilruba Sofia
 
-_Say hello to your community._
+_Hello! I am an enthusiast in data driven mathematical models of disease. Currently I am working on data driven cancer modeling to optimize cancer treatment based on patients' immune features._
 
 
 <!-- 
